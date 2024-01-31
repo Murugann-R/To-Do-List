@@ -1,0 +1,86 @@
+body {
+  background: linear-gradient(135deg, #030d9e, #251544e3);
+  /* background: linear-gradient(135deg, #153677, #4e085f); */
+}
+.full {
+  height: 300px;
+  width: 500px;
+  background-color: white;
+  margin-left: 430px;
+  margin-top: 200px;
+}
+h1 {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-transform: capitalize;
+  margin-left: 100px;
+  padding: 20px;
+  margin-top: 30px;
+  color: black;
+}
+.text {
+  margin-top: 0px;
+  margin-left: 120px;
+  border-radius: 50px;
+  border: none;
+  height: 30px;
+  width: 180px;
+  background-color: burlywood;
+  position: absolute;
+  padding: 10px;
+}
+.text::placeholder {
+  margin-left: 20px;
+  text-transform: capitalize;
+  padding: 13px;
+  color: rgb(90, 86, 86);
+}
+.add {
+  border-radius: 50px;
+  border: none;
+  height: 50px;
+  position: absolute;
+  width: 110px;
+  background-color: rgb(238, 55, 9);
+  color: black;
+  text-transform: capitalize;
+  padding: 10px;
+  margin-left: 275px;
+  margin-top: 0px;
+}
+.hayley,.hayleyy,.hayleyyy{
+  margin-top: 70px;
+  position: absolute;
+  margin-left: 140px;
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: normal;
+  text-transform: capitalize;
+}
+.hayleyy{
+  margin-top: 100px;
+}
+.hayleyyy{
+  margin-top: 130px;
+}
+.bottom,.neomi,.lagertha {
+  visibility: hidden;
+}
+
+.close,.closee,.closeee {
+  margin-left: 350px;
+  margin-top: 70px;
+  font-size: 25px;
+  position: absolute;
+  border: none;
+  border-radius: 13px;
+  height: 25px;
+  width: 25px;
+  background-color: transparent;
+}
+.closee{
+  margin-top: 100px;
+}
+.closeee{
+  margin-top: 130px;
+}
